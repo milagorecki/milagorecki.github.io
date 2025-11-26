@@ -16,13 +16,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "news-our-work-amortized-bayesian-decision-making-for-simulation-based-models-got-accepted-at-tmlr",
-          title: 'Our work “Amortized Bayesian Decision Making for simulation-based models” got accepted at TMLR!...',
-          description: "",
-          section: "News",},{id: "news-our-work-monoculture-or-multiplicity-which-is-it-got-accepted-at-neurips",
-          title: 'Our work “Monoculture or Multiplicity: Which is it?” got accepted at NeurIPS!',
-          description: "",
-          section: "News",},{
+        },{
         id: 'social-bluesky',
         title: 'Bluesky',
         section: 'Socials',
