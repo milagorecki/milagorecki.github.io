@@ -1,11 +1,15 @@
+"adams":
+  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
+    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+    
 "hardt":
-  - firstname: ["Moritz Hardt"]
+  - firstname: ["Moritz", "M.", "Moritz Hardt"]
     url: https://mrtz.org
 
 "deistler":
-   - firstname: ["Michael Deistler"]
+   - firstname: ["Michael", "M.", "Michael Deistler"]
       url: https://michaeldeistler.github.io
 
 "macke":
-  - firstname: ["Jakob Macke"]
+  - firstname: ["Jakob", "J.", "Jakob Macke", " Jakob H. Macke"]
     url: https://www.mackelab.org/people/
