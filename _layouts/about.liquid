@@ -42,22 +42,18 @@ layout: default
 
     <!-- News -->
     {% if page.announcements and page.announcements.enabled %}
-      <section class="section-news">
         <h2>
           <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
         </h2>
         {% include news.liquid limit=true %}
-      </section>
     {% endif %}
 
     <!-- Latest posts -->
     {% if page.latest_posts and page.latest_posts.enabled %}
-      <section class="section-posts">
         <h2>
           <a href="{{ '/blog/' | relative_url }}" style="color: inherit">latest posts</a>
         </h2>
         {% include latest_posts.liquid %}
-      </section>
     {% endif %}
 
     <!-- Selected papers -->
