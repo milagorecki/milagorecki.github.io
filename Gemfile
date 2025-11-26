@@ -20,8 +20,6 @@ group :jekyll_plugins do
     gem 'jekyll-toc'
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
-
-    gem 'classifier-reborn'  # used for content categorization during the build
 end
 
 # Gems for development or external data fetching (outside :jekyll_plugins)
