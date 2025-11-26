@@ -19,5 +19,7 @@ announcements:
   limit:  # leave blank to include all the news in the `_news` folder
 ---
 
-I'm a PhD student at the Max Planck Institute for Intelligent Systems in Tübingen, supervised by Moritz Hardt. I am interested societal consequences of algorithmic decision making. 
+I'm a PhD student at the Max Planck Institute for Intelligent Systems, where I am fortunate to be supervised by <a href="https://mrtz.org">Moritz Hardt</a>. I am part of the <a href="https://is.mpg.de/sf">Social Foundations of Computation</a> Department. 
+
+I am broadly interested societal consequences of algorithmic decision making. 
 
