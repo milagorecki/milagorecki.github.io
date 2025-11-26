@@ -3,8 +3,8 @@
     url: https://mrtz.org
 
 "deistler":
-   - firstname: ["Michael", "M.", "Michael Deistler"]
-      url: https://michaeldeistler.github.io
+  - firstname: ["Michael", "M.", "Michael Deistler"]
+    url: https://michaeldeistler.github.io
 
 "macke":
   - firstname: ["Jakob", "J.", "Jakob H. Macke"]
