@@ -184,11 +184,18 @@ exclude:
   - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
   - purgecss.config.js
   - README.md
   - readme_preview/
   - vendor
+  - _pages/about_einstein.md
+  - _pages/blog_description.md
+  - _pages/books.md
+  - _pages/cv.md
+  - _pages/dropdown.md
+  - _pages/profiles.md
+  - _pages/repositories.md
+  - _pages/teaching.md
 keep_files:
   - CNAME
   - .nojekyll
