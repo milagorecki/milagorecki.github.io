@@ -1,11 +1,11 @@
-"hardt":
-  - firstname: ["Moritz", "M.", "Moritz Hardt"]
-    url: https://mrtz.org
+# "hardt":
+#   - firstname: ["Moritz", "M.", "Moritz Hardt"]
+#     url: https://mrtz.org
 
-"deistler":
-  - firstname: ["Michael", "M.", "Michael Deistler"]
-    url: https://michaeldeistler.github.io
+# "deistler":
+#   - firstname: ["Michael", "M.", "Michael Deistler"]
+#     url: https://michaeldeistler.github.io
 
-"macke":
-  - firstname: ["Jakob", "J.", "Jakob H. Macke"]
-    url: https://www.mackelab.org/people/
+# "macke":
+#   - firstname: ["Jakob", "J.", "Jakob H.", "Jakob H. Macke"]
+#     url: https://www.mackelab.org/people/
