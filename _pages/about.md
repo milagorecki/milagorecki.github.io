@@ -20,6 +20,6 @@ announcements:
 ---
 
 I'm a PhD student at the Max Planck Institute for Intelligent Systems, where I am fortunate to be supervised by <a href="https://mrtz.org">Moritz Hardt</a>. I am part of the <a href="https://is.mpg.de/sf">Social Foundations of Computation</a> Department. 
+Before that, I completed my Master in Machine Learning and Bachelor in Computer Science as well as Cognitive Science at the University of Tübingen. 
 
-I am broadly interested societal consequences of algorithmic decision making. 
-
+My research falls at the intersection of algorithmic decision making and society. I'm interested in dynamics that arise from an increasing use of and reliance on algorithmic decision making,fairness, feedback loops arising from predictions taken upon humans as well as institutional decision making and policy questions connected to that. My current research explores predictive similarity of LLMs when used for consequential prediction tasks. 
